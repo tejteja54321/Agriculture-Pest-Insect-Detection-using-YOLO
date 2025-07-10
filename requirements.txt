@@ -1,0 +1,7 @@
+#python==3.8
+flask
+ultralytics==8.3.38
+opencv-python
+ffmpeg
+
+#if you are facing file not found error you have ffmpeg folder paste that folder in C Drive.

@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/vencerlanz09/agricultural-pests-image-dataset?select=weevil
+
+https://universe.roboflow.com/tini/pest-detection-0sv8g/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
